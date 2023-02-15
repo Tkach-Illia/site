@@ -1,0 +1,25 @@
+.gallery-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    height: 50%;
+    left: 15%;
+    top: 5%;
+
+    background-color: black;
+}
+
+.gallery-image img {
+    width: 200%;
+    height: 200%;
+}
+
+.gallery-image .likes {
+    bottom: 5px;
+    right: 5px;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 3px 5px;
+    border-radius: 3px;
+}

@@ -1,0 +1,40 @@
+.post-case{
+    margin-top: 100px;
+    margin-left: 20%;
+    width: 60%;
+
+}
+
+.comment-container {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.comment-container p {
+    margin: 0;
+}
+
+.comment-form {
+    margin-top: 20px;
+}
+
+.comment-form input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.comment-form button {
+    padding: 10px;
+    background-color: #2196f3;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
